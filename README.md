@@ -164,51 +164,53 @@ Simplifies Solana development with APIs for tokens, NFTs, and payments.
 
 ### Projects
 
-- **AI Influencers**: luna on TikTok
-- **Autonomous VC Agents**: ai16z, Sekoia
-- **General Agent Infrastructure**: Spectral, Wayfinder
-- **AI Agents Creating Tokens Autonomously**: Clanker
-- **AI Agent Creating an Entire Soundtrack**: Zerebro
-- **AI Agent That Gives You Market Alpha**: Aixbt
-- **AI Agent That Trades for You**: Spectral
-- **AI Agent Living on the Farcaster Network**: Aethernet
-- **AI Agent x Crypto Framework**: ai16z’s Eliza
-- **Convincing AI Agent to Win Prize**: Freysa
-- **Jailbreak AI Models and Earn Crypto**: Jailbreak
+- **AI Influencers**: [lunaonTikTok](https://app.virtuals.io/virtuals/68)
+- **Autonomous VC Agents#1**: [ai16z](https://ai16z.github.io/eliza/)
+- **Autonomous VC Agents#2**: [Sekoia](https://sekoia.vc)
+- **General Agent Infrastructure#1**: [Spectral](https://www.spectrallabs.xyz)
+- **General Agent Infrastructure#2**: [Wayfinder](https://cache.wayfinder.ai)
+- **AI Agents Creating Tokens Autonomously**: [Clanker](https://www.clanker.world/clanker)
+- **AI Agent Creating an Entire Soundtrack**: [Zerebro](https://zerebro.org/)
+- **AI Agent That Gives You Market Alpha**: [Aixbt](https://app.virtuals.io/virtuals/1199)
+- **AI Agent That Trades for You**: [Spectral](https://www.spectrallabs.xyz/)
+- **AI Agent Living on the Farcaster Network**: [Aethernet](https://warpcast.com/aethernet)
+- **AI Agent x Crypto Framework**: [ai16z’sEliza](https://github.com/ai16z/eliza)
+- **Convincing AI Agent to Win Prize**: [Freysa](https://www.freysa.ai/)
+- **Jailbreak AI Models and Earn Crypto**: [Jailbreak](https://jailbreakme.xyz/)
 
 ### Podcasts
 
-- **Crypto x AI Agents**: The Definitive Podcast with Ai16z, Virtuals, MyShell, NOUS, and CENTS
-- **Everything You Need to Know About AI & Crypto**
-- **The Golden Age of Crypto | EP 65**
-- **State of The Crypto Market | AI, Memes, and Majors | EP 66**
-- **Vertical AI Agents Could Be 10X Bigger Than SaaS**
+- **Crypto x AI Agents**: The Definitive Podcast with Ai16z, Virtuals, MyShell, NOUS, and CENTS[Podcast#1](https://www.youtube.com/watch?v=HVXxprDVMUM&feature=youtu.be)
+- **Everything You Need to Know About AI & Crypto**[Podcast#2](https://youtu.be/lbYG_pug8Rk?si=Hw82aTthLxF9uTJ7)
+- **The Golden Age of Crypto | EP 65**[Podcast#3](https://www.youtube.com/watch?v=aEwAID9p66U)
+- **State of The Crypto Market | AI, Memes, and Majors | EP 66**[Podcast#4](https://youtu.be/FHjIvcKRm9I?si=gA1wCkZme7Ev5fts)
+- **Vertical AI Agents Could Be 10X Bigger Than SaaS**[Podcast#5](https://www.youtube.com/watch?v=ASABxNenD_U)
 
 ### Reading Lists
 
 #### Crypto x AI
 
-- **Best Crypto x AI Newsletter**: Chain of Thought
-- **Curated Content on AI Agents**: Terry JW
-- **The Role of Crypto in an Agentic Economy**: Agentic Ecosystem
-- **Broader Thesis on Crypto Enabling Funding + Agentic Community Management**: YB
-- **The Zerebro Playbook**: BAYC of Onchain Agents
-- **Crypto x Consumer AI**: Collab+Currency
-- **Chase B**: The Dawn of AI Autonomy on X
+- **Best Crypto x AI Newsletter**: [ChainofThought](https://www.chainofthought.xyz/)
+- **Curated Content on AI Agents**: [TerryJW](https://terrytjw.notion.site/onchain-ai-reading-list)
+- **The Role of Crypto in an Agentic Economy**: [AgenticEcosystem](https://x.com/robbiepetersen_/status/1864351850134216966)
+- **Broader Thesis on Crypto Enabling Funding + Agentic Community Management**: [YB](https://x.com/yb_effect/status/1860344384161743339)
+- **The Zerebro Playbook**: [BAYCofOnchainAgents](https://x.com/yb_effect/status/1856545765734133918)
+- **Crypto x Consumer AI**: [Collab+Currency](https://medium.com/collab-currency/crypto-x-consumer-ai-7dee0eeadab9)
+- **Chase B**: [TheDawnofAIAutonomyonX](https://x.com/itsmechaseb/status/1857511608810901941)
 
 #### On AI
 
-- **Vertical Apps x AI**
-- **Simulators**: LessWrong
-- **Readings on AI Simulations**
-- **Exploration of Neural Networks as Creative Tools**
-- **Massive Lifetime Opportunity in AI**
-- **Terminally Onchain by YB**
+- **Vertical Apps x AI** [VerticalAppsxAI](https://x.com/andrewchen/status/1832114119207743984)
+- **Simulators**: [LessWrong](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators)
+- **Readings on AI Simulations** [AiSimulations](https://generative.ink/posts/)
+- **Exploration of Neural Networks as Creative Tools** [Neurals](https://paragraph.xyz/@eclecticcapital.eth/neural-media?referrer=0x6C6Fa0C7461cBeD98c9B977B1914DDE694837344)
+- **Massive Lifetime Opportunity in AI** [Opportunity](https://www.chainofthought.xyz/p/crypto-ai-a-f-king-big-opportunity-part-i)
+- **Terminally Onchain by YB** [YB](https://terminallyonchain.xyz/goat)
 
 ### Tutorials
 
-- **Build a Social AI Agent in 15 Minutes**
-- **AI Agent Dev School**: Part 1
+- **Build a Social AI Agent in 15 Minutes** [Nader Dabit](https://x.com/dabit3/status/1863772029565981144)
+- **AI Agent Dev School**: [Part1](https://www.youtube.com/watch?v=ArptLpQiKfI&list=PLx5pnFXdPTRzWla0RaOxALTSTnVq53fKL)
 - **Solana Agent Kit**: [SDK Support for Building AI Agents](https://github.com/sendaifun/solana-agent-kit)
 
 ## Starter Templates
