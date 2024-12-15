@@ -25,6 +25,8 @@ Welcome to the Solana AI Agent Hackathon repository! This resource is your ultim
   - [Paladin](#paladin)
   - [Crossmint](#crossmint)
   - [Squad](#squad)
+  - [IO.net](#IO.net)
+
 
 - [Additional Resources](#additional-resources)
   - [Projects](#projects)
