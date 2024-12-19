@@ -24,6 +24,10 @@ Welcome to the Solana AI Agent Hackathon repository! This resource is your ultim
   - [Orca](#orca)
   - [Paladin](#paladin)
   - [Crossmint](#crossmint)
+  - [Squad](#squad)
+  - [IO.net](#IO.net)
+
+
 - [Additional Resources](#additional-resources)
   - [Projects](#projects)
   - [Podcasts](#podcasts)
@@ -159,6 +163,20 @@ Simplifies Solana development with APIs for tokens, NFTs, and payments.
 
 - **Documentation**: [Crossmint Docs](https://docs.google.com/document/d/1ssBTbaOgu2dZPxfACieBHXPx8JzwdyuqbqAawDmVXks)
 - **Community**: Contact @shannoncode on Telegram
+
+### Squad
+
+The most advanced multisig in crypto, exclusively for the Solana ecosystem.
+
+- **Documentation**: [Squad SDK](https://www.npmjs.com/package/@sqds/multisig)
+- **Community**: Contact @SquadsProtocol on X
+
+### IO.net
+
+Harness the power of io.net’s decentralized network through IO Cloud, your gateway to high-performance GPUs and CPUs for Web3 initiatives
+
+- **Documentation**: [IO Net Docs](https://docs.io.net/docs/run-jobs-on-clusters)
+- **Community**: Contact support@io.net
 
 ## Additional Resources
 
